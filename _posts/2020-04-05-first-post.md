@@ -1,0 +1,21 @@
+---
+title: "How we got here"
+date: 2020-04-05 11:25:56 +0800
+categories: "bio"
+permalink: "/posts/:title"
+---
+
+<figure style="width: 150px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/files/2018_road_trip.jpg" alt="">
+  <figcaption>Me on my Vietnam cross country road trip after quitting Micron</figcaption>
+</figure>
+
+Exactly two years ago, in April 2018, I was working my last days as a Process Engineer at Micron Semiconductors, Singapore. I was about to attempt a career switch into software engineering, equipped with little more than CS1010S - a programming methodology class I took in 2016.
+
+My plan at the time was to volunteer for [CVWO](https://www.comp.nus.edu.sg/~vwo/projects/2018-lbsa.html) - a summer programme at my alma mater National University of Singapore (NUS). My goal was simple: to ensure my presence does not present extra overhead for the team. I was forewarned that this programme would be intensive, the learning curve would be steep, and my teammates (who are technically my juniors from a different department) would be brilliant.
+
+Everything people said about the programme was indeed true, but by the end of the summmer I was still surprised by both the overwhelming amount of new knowledge I have learned from my teammates, and the vast areas I still don't know about software engineering.
+
+That summer was the beginning of my journey into software engineering. Throughout this journey I have had many people taking a chance on me, giving me opportunities I still can't quite believe I deserved, investing their time to train me up for the roles I had never imagined I could fill.
+
+I want to start this blog to chronicle the decisions that have brought me here, the people who have played a big role in my professional development, and the unique projects that groomed my skills. Hopefully a comprehensive reflection of my journey thus far would help me figure out how to keep up my learning curve.
