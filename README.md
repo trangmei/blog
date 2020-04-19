@@ -1,1 +1,1 @@
-Trang's personal blog created with [Jekyll](http://jekyllrb.com/), [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/), and hosted on github pages at [http://trangmei.github.io/](http://trangmei.github.io/).
+Trang's personal blog created with [Jekyll](http://jekyllrb.com/), [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/), and hosted on github pages at [http://trangmei.github.io/blog](http://trangmei.github.io/).
